@@ -496,9 +496,25 @@ def main():
    cap = cv2.VideoCapture(0) 
    if not cap.isOpened(): 
        raise RuntimeError("Camera not available") 
- 
+
    print("Recognize (multi-face). q=quit, r=reload DB, +/- threshold, d=debug overlay") 
- 
+   
+   # Initialize FaceLock
+   try:
+      from src.face_lock import FaceLock
+   except ModuleNotFoundError:
+      # Fallback if running directly from src/
+      import sys
+      sys.path.append(str(Path(__file__).parent.parent))
+      from src.face_lock import FaceLock
+   
+   # Get available identities for selection
+   available_identities = matcher._names
+   locked_identity = select_identity(available_identities)
+   print(f"Target Identity Selected: {locked_identity}")
+   
+   face_lock = FaceLock(locked_identity, history_dir="data/db")
+
    t0 = time.time() 
    frames = 0 
    fps: Optional[float] = None 

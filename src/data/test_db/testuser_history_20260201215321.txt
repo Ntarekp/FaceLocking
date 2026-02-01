@@ -1,0 +1,5 @@
+Face Locking History for TestUser
+2026-02-01 21:53:21	lock	Locked onto TestUser
+2026-02-01 21:53:21	move_right	Face moved right by 30.0 px
+2026-02-01 21:53:21	eye_blink	Blink detected
+2026-02-01 21:53:21	smile	Smile detected

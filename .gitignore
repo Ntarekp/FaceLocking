@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Models / binaries
+*.onnx
+*.pt
+*.h5
+*.mp4
+
+buffalo_l/
+*.onnx
+*.zip

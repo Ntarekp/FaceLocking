@@ -221,23 +221,23 @@ class ArcFaceEmbedderONNX:
    """ 
  
    def __init__( 
-        self, 
-        model_path: str = "models/embedder_arcface.onnx", 
-        input_size: Tuple[int, int] = (112, 112), 
-        debug: bool = False, 
-    ): 
-        # Robust path resolution
-        if not Path(model_path).exists():
-            root_dir = Path(__file__).resolve().parent.parent
-            potential = root_dir / model_path
-            if potential.exists():
-                model_path = str(potential)
+       self, 
+       model_path: str = "models/embedder_arcface.onnx", 
+       input_size: Tuple[int, int] = (112, 112), 
+       debug: bool = False, 
+   ): 
+       # Robust path resolution
+       if not Path(model_path).exists():
+           root_dir = Path(__file__).resolve().parent.parent
+           potential = root_dir / model_path
+           if potential.exists():
+               model_path = str(potential)
 
-        self.model_path = model_path 
-        self.in_w, self.in_h = int(input_size[0]), int(input_size[1]) 
-        self.debug = bool(debug) 
+       self.model_path = model_path 
+       self.in_w, self.in_h = int(input_size[0]), int(input_size[1]) 
+       self.debug = bool(debug) 
 
-        self.sess = ort.InferenceSession(model_path, providers=["CPUExecutionProvider"]) 
+       self.sess = ort.InferenceSession(model_path, providers=["CPUExecutionProvider"])
        self.in_name = self.sess.get_inputs()[0].name 
        self.out_name = self.sess.get_outputs()[0].name 
  

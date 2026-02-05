@@ -1,0 +1,84 @@
+Face Locking History for Prince
+2026-02-05 14:33:02	lock	Locked onto Prince
+2026-02-05 14:33:02	position	User at (337.5, 304.0)
+2026-02-05 14:33:03	position	User at (336.5, 305.5)
+2026-02-05 14:33:04	position	User at (341.5, 304.5)
+2026-02-05 14:33:04	position	User at (344.5, 301.0)
+2026-02-05 14:33:04	position	User at (347.5, 301.0)
+2026-02-05 14:33:05	position	User at (349.5, 300.0)
+2026-02-05 14:33:05	position	User at (347.5, 301.0)
+2026-02-05 14:33:06	position	User at (348.0, 301.0)
+2026-02-05 14:33:06	position	User at (346.5, 305.5)
+2026-02-05 14:33:06	position	User at (340.5, 305.0)
+2026-02-05 14:33:07	position	User at (330.5, 303.0)
+2026-02-05 14:33:07	move_left	Face moved left by 17.0 px
+2026-02-05 14:33:07	position	User at (315.0, 300.5)
+2026-02-05 14:33:07	move_left	Face moved left by 16.0 px
+2026-02-05 14:33:07	position	User at (299.5, 298.5)
+2026-02-05 14:33:08	position	User at (289.5, 294.0)
+2026-02-05 14:33:08	position	User at (290.0, 293.5)
+2026-02-05 14:33:08	position	User at (303.0, 292.5)
+2026-02-05 14:33:09	move_right	Face moved right by 27.0 px
+2026-02-05 14:33:09	position	User at (332.0, 296.5)
+2026-02-05 14:33:09	move_right	Face moved right by 20.0 px
+2026-02-05 14:33:09	position	User at (349.5, 298.5)
+2026-02-05 14:33:10	position	User at (360.0, 297.5)
+2026-02-05 14:33:10	position	User at (357.0, 296.5)
+2026-02-05 14:33:10	position	User at (356.0, 298.0)
+2026-02-05 14:33:11	position	User at (351.5, 299.5)
+2026-02-05 14:33:11	position	User at (348.0, 299.5)
+2026-02-05 14:33:11	position	User at (349.5, 300.0)
+2026-02-05 14:33:12	position	User at (339.5, 297.0)
+2026-02-05 14:33:12	position	User at (343.5, 297.5)
+2026-02-05 14:33:13	position	User at (346.0, 298.5)
+2026-02-05 14:33:13	position	User at (338.0, 298.5)
+2026-02-05 14:33:13	move_left	Face moved left by 21.0 px
+2026-02-05 14:33:13	position	User at (315.5, 303.5)
+2026-02-05 14:33:14	position	User at (312.0, 306.5)
+2026-02-05 14:33:14	position	User at (308.5, 312.5)
+2026-02-05 14:33:14	position	User at (318.0, 312.0)
+2026-02-05 14:33:15	position	User at (328.5, 308.5)
+2026-02-05 14:33:15	position	User at (331.0, 307.5)
+2026-02-05 14:33:15	position	User at (334.5, 306.5)
+2026-02-05 14:33:16	position	User at (336.0, 306.5)
+2026-02-05 14:33:16	position	User at (332.5, 300.5)
+2026-02-05 14:33:16	position	User at (336.5, 308.0)
+2026-02-05 14:33:17	position	User at (337.0, 307.5)
+2026-02-05 14:33:17	move_right	Face moved right by 16.0 px
+2026-02-05 14:33:17	position	User at (355.0, 309.0)
+2026-02-05 14:33:18	position	User at (355.0, 310.0)
+2026-02-05 14:33:19	smile	Smile detected
+2026-02-05 14:33:19	laugh	Laugh detected
+2026-02-05 14:33:19	position	User at (353.0, 300.5)
+2026-02-05 14:33:20	position	User at (352.5, 303.5)
+2026-02-05 14:33:20	position	User at (354.5, 308.0)
+2026-02-05 14:33:21	position	User at (357.5, 306.0)
+2026-02-05 14:33:21	position	User at (358.5, 304.5)
+2026-02-05 14:33:22	position	User at (351.5, 302.0)
+2026-02-05 14:33:22	position	User at (344.0, 297.0)
+2026-02-05 14:33:23	position	User at (337.0, 294.5)
+2026-02-05 14:33:23	move_left	Face moved left by 19.0 px
+2026-02-05 14:33:23	position	User at (316.0, 292.5)
+2026-02-05 14:33:23	move_right	Face moved right by 35.0 px
+2026-02-05 14:33:23	eye_blink	Blink detected
+2026-02-05 14:33:23	position	User at (345.0, 305.0)
+2026-02-05 14:33:24	move_right	Face moved right by 85.0 px
+2026-02-05 14:33:24	position	User at (422.5, 327.0)
+2026-02-05 14:33:25	position	User at (439.5, 330.0)
+2026-02-05 14:33:25	move_left	Face moved left by 20.0 px
+2026-02-05 14:33:25	laugh	Laugh detected
+2026-02-05 14:33:25	position	User at (423.0, 324.5)
+2026-02-05 14:33:25	move_left	Face moved left by 18.0 px
+2026-02-05 14:33:25	position	User at (407.0, 322.5)
+2026-02-05 14:33:26	position	User at (395.0, 318.5)
+2026-02-05 14:33:26	laugh	Laugh detected
+2026-02-05 14:33:26	position	User at (383.0, 314.0)
+2026-02-05 14:33:26	position	User at (381.5, 312.5)
+2026-02-05 14:33:28	position	User at (388.0, 317.5)
+2026-02-05 14:33:29	position	User at (388.0, 324.0)
+2026-02-05 14:33:29	move_right	Face moved right by 16.0 px
+2026-02-05 14:33:29	position	User at (403.5, 323.5)
+2026-02-05 14:33:29	position	User at (415.0, 311.0)
+2026-02-05 14:33:30	move_left	Face moved left by 52.0 px
+2026-02-05 14:33:30	smile	Smile detected
+2026-02-05 14:33:30	position	User at (382.0, 295.5)

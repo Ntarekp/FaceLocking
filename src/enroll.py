@@ -26,8 +26,8 @@ from typing import Dict, List, Optional, Tuple
 import cv2 
 import numpy as np 
  
-from haar_5pt import Haar5ptDetector, align_face_5pt
-from embed import ArcFaceEmbedderONNX
+from src.haar_5pt import Haar5ptDetector, align_face_5pt
+from src.embed import ArcFaceEmbedderONNX
  
  
 # ------------------------- 
@@ -190,9 +190,13 @@ debug=False)
    auto = False 
    last_auto = 0.0 
  
-   cap = cv2.VideoCapture(0) 
+   # Ask user for camera index
+   cam_idx_str = input("Enter camera index (default 0): ").strip()
+   cam_idx = int(cam_idx_str) if cam_idx_str.isdigit() else 0
+   
+   cap = cv2.VideoCapture(cam_idx)
    if not cap.isOpened(): 
-       raise RuntimeError("Failed to open camera.") 
+       raise RuntimeError(f"Failed to open camera {cam_idx}.")
  
    cv2.namedWindow(cfg.window_main, cv2.WINDOW_NORMAL) 
    cv2.namedWindow(cfg.window_aligned, cv2.WINDOW_NORMAL) 
@@ -328,4 +332,4 @@ debug=False)
  
  
 if __name__ == "__main__": 
-   main
+   main()

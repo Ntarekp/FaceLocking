@@ -1,0 +1,169 @@
+Face Locking History for Loic
+2026-02-05 14:50:20	lock	Locked onto Loic
+2026-02-05 14:50:20	move_left	Face moved left by 33.0 px
+2026-02-05 14:50:20	position	User at (480.5, 171.5)
+2026-02-05 14:50:21	move_right	Face moved right by 33.0 px
+2026-02-05 14:50:21	position	User at (512.0, 171.0)
+2026-02-05 14:50:21	move_right	Face moved right by 25.0 px
+2026-02-05 14:50:21	position	User at (539.0, 166.5)
+2026-02-05 14:50:22	position	User at (552.0, 163.5)
+2026-02-05 14:50:22	position	User at (553.5, 162.5)
+2026-02-05 14:50:23	position	User at (562.5, 165.5)
+2026-02-05 14:50:23	position	User at (565.0, 166.5)
+2026-02-05 14:50:23	position	User at (566.0, 164.5)
+2026-02-05 14:50:24	position	User at (570.0, 161.5)
+2026-02-05 14:50:24	position	User at (575.0, 163.0)
+2026-02-05 14:50:25	position	User at (572.0, 170.5)
+2026-02-05 14:50:25	position	User at (567.0, 174.5)
+2026-02-05 14:50:26	position	User at (560.0, 181.5)
+2026-02-05 14:50:26	position	User at (552.5, 179.0)
+2026-02-05 14:50:27	position	User at (551.5, 175.5)
+2026-02-05 14:50:27	position	User at (552.5, 173.0)
+2026-02-05 14:50:28	position	User at (552.5, 173.0)
+2026-02-05 14:50:28	position	User at (555.0, 172.5)
+2026-02-05 14:50:29	position	User at (556.0, 171.5)
+2026-02-05 14:50:29	position	User at (554.5, 171.0)
+2026-02-05 14:50:30	position	User at (563.5, 169.5)
+2026-02-05 14:50:30	position	User at (563.5, 169.5)
+2026-02-05 14:50:30	position	User at (562.5, 171.5)
+2026-02-05 14:50:31	laugh	Laugh detected
+2026-02-05 14:50:31	position	User at (565.0, 167.0)
+2026-02-05 14:50:32	move_right	Face moved right by 24.0 px
+2026-02-05 14:50:32	position	User at (577.0, 170.0)
+2026-02-05 14:50:32	move_left	Face moved left by 33.0 px
+2026-02-05 14:50:32	position	User at (556.5, 164.5)
+2026-02-05 14:50:32	move_left	Face moved left by 22.0 px
+2026-02-05 14:50:32	position	User at (533.0, 176.5)
+2026-02-05 14:50:33	position	User at (522.0, 182.0)
+2026-02-05 14:50:36	move_left	Face moved left by 87.0 px
+2026-02-05 14:50:36	smile	Smile detected
+2026-02-05 14:50:36	position	User at (467.0, 172.5)
+2026-02-05 14:50:37	position	User at (461.5, 176.0)
+2026-02-05 14:50:37	position	User at (456.0, 178.5)
+2026-02-05 14:50:37	position	User at (438.0, 185.5)
+2026-02-05 14:50:37	position	User at (425.0, 187.5)
+2026-02-05 14:50:38	position	User at (425.5, 197.5)
+2026-02-05 14:50:38	position	User at (427.0, 209.0)
+2026-02-05 14:50:39	move_left	Face moved left by 20.0 px
+2026-02-05 14:50:39	laugh	Laugh detected
+2026-02-05 14:50:39	position	User at (407.0, 283.5)
+2026-02-05 14:50:39	move_left	Face moved left by 25.0 px
+2026-02-05 14:50:39	position	User at (380.0, 317.0)
+2026-02-05 14:50:39	move_left	Face moved left by 19.0 px
+2026-02-05 14:50:39	position	User at (360.5, 334.0)
+2026-02-05 14:50:40	position	User at (362.0, 346.5)
+2026-02-05 14:50:40	position	User at (368.0, 358.0)
+2026-02-05 14:50:40	position	User at (368.0, 364.5)
+2026-02-05 14:50:40	position	User at (361.0, 319.5)
+2026-02-05 14:50:41	move_left	Face moved left by 20.0 px
+2026-02-05 14:50:41	smile	Smile detected
+2026-02-05 14:50:41	position	User at (345.5, 226.0)
+2026-02-05 14:50:41	move_left	Face moved left by 52.0 px
+2026-02-05 14:50:41	position	User at (296.0, 193.0)
+2026-02-05 14:50:41	move_left	Face moved left by 79.0 px
+2026-02-05 14:50:41	position	User at (220.5, 179.0)
+2026-02-05 14:50:43	move_left	Face moved left by 88.0 px
+2026-02-05 14:50:43	position	User at (131.5, 150.0)
+2026-02-05 14:50:59	unlock	Released lock on Loic
+2026-02-05 14:51:00	lock	Locked onto Loic
+2026-02-05 14:51:00	smile	Smile detected
+2026-02-05 14:51:00	laugh	Laugh detected
+2026-02-05 14:51:00	position	User at (301.0, 205.0)
+2026-02-05 14:51:00	move_right	Face moved right by 17.0 px
+2026-02-05 14:51:00	position	User at (317.5, 196.0)
+2026-02-05 14:51:01	position	User at (319.0, 193.5)
+2026-02-05 14:51:01	position	User at (321.5, 191.5)
+2026-02-05 14:51:02	position	User at (322.0, 191.0)
+2026-02-05 14:51:02	position	User at (320.5, 190.5)
+2026-02-05 14:51:03	position	User at (319.0, 191.0)
+2026-02-05 14:51:03	position	User at (317.5, 192.5)
+2026-02-05 14:51:03	position	User at (314.5, 192.5)
+2026-02-05 14:51:03	position	User at (310.0, 191.5)
+2026-02-05 14:51:04	position	User at (307.0, 191.5)
+2026-02-05 14:51:04	position	User at (305.0, 191.0)
+2026-02-05 14:51:04	position	User at (304.5, 190.5)
+2026-02-05 14:51:04	laugh	Laugh detected
+2026-02-05 14:51:04	position	User at (305.0, 189.5)
+2026-02-05 14:51:05	laugh	Laugh detected
+2026-02-05 14:51:05	position	User at (309.5, 184.5)
+2026-02-05 14:51:05	position	User at (323.0, 175.0)
+2026-02-05 14:51:05	position	User at (338.0, 182.0)
+2026-02-05 14:51:05	move_left	Face moved left by 20.0 px
+2026-02-05 14:51:05	position	User at (325.0, 168.0)
+2026-02-05 14:51:06	position	User at (321.5, 157.0)
+2026-02-05 14:51:06	laugh	Laugh detected
+2026-02-05 14:51:06	position	User at (323.5, 148.5)
+2026-02-05 14:51:06	position	User at (325.5, 149.5)
+2026-02-05 14:51:07	position	User at (329.0, 140.5)
+2026-02-05 14:51:07	position	User at (329.5, 141.0)
+2026-02-05 14:51:07	laugh	Laugh detected
+2026-02-05 14:51:07	position	User at (328.5, 141.0)
+2026-02-05 14:51:07	position	User at (324.5, 135.5)
+2026-02-05 14:51:08	position	User at (321.5, 134.0)
+2026-02-05 14:51:08	position	User at (322.0, 135.5)
+2026-02-05 14:51:08	position	User at (318.5, 133.5)
+2026-02-05 14:51:08	position	User at (313.0, 132.5)
+2026-02-05 14:51:09	position	User at (313.0, 132.5)
+2026-02-05 14:51:09	position	User at (315.0, 122.0)
+2026-02-05 14:51:09	move_left	Face moved left by 21.0 px
+2026-02-05 14:51:09	position	User at (295.5, 123.0)
+2026-02-05 14:51:10	move_right	Face moved right by 88.0 px
+2026-02-05 14:51:10	eye_blink	Blink detected
+2026-02-05 14:51:10	position	User at (340.0, 107.5)
+2026-02-05 14:51:14	move_left	Face moved left by 88.0 px
+2026-02-05 14:51:14	smile	Smile detected
+2026-02-05 14:51:14	position	User at (294.5, 145.0)
+2026-02-05 14:51:14	position	User at (296.0, 147.5)
+2026-02-05 14:51:15	position	User at (298.5, 150.0)
+2026-02-05 14:51:15	position	User at (299.0, 152.5)
+2026-02-05 14:51:23	move_right	Face moved right by 57.0 px
+2026-02-05 14:51:23	smile	Smile detected
+2026-02-05 14:51:23	laugh	Laugh detected
+2026-02-05 14:51:23	position	User at (365.5, 211.0)
+2026-02-05 14:51:23	position	User at (365.5, 208.5)
+2026-02-05 14:51:23	move_right	Face moved right by 25.0 px
+2026-02-05 14:51:23	position	User at (393.5, 209.0)
+2026-02-05 14:51:24	move_right	Face moved right by 36.0 px
+2026-02-05 14:51:24	position	User at (431.0, 219.0)
+2026-02-05 14:51:24	position	User at (426.5, 215.5)
+2026-02-05 14:51:24	move_left	Face moved left by 22.0 px
+2026-02-05 14:51:24	position	User at (401.5, 203.0)
+2026-02-05 14:51:24	move_left	Face moved left by 22.0 px
+2026-02-05 14:51:24	position	User at (378.0, 199.5)
+2026-02-05 14:51:25	position	User at (368.0, 197.5)
+2026-02-05 14:51:25	position	User at (354.5, 198.0)
+2026-02-05 14:51:25	move_left	Face moved left by 18.0 px
+2026-02-05 14:51:25	position	User at (337.5, 200.0)
+2026-02-05 14:51:25	move_left	Face moved left by 16.0 px
+2026-02-05 14:51:25	position	User at (321.5, 203.0)
+2026-02-05 14:51:26	move_left	Face moved left by 17.0 px
+2026-02-05 14:51:26	position	User at (306.0, 207.5)
+2026-02-05 14:51:26	position	User at (296.0, 213.5)
+2026-02-05 14:51:26	position	User at (289.5, 211.5)
+2026-02-05 14:51:26	position	User at (302.0, 196.0)
+2026-02-05 14:51:27	move_right	Face moved right by 26.0 px
+2026-02-05 14:51:27	position	User at (325.5, 183.5)
+2026-02-05 14:51:27	move_right	Face moved right by 35.0 px
+2026-02-05 14:51:27	position	User at (361.5, 187.5)
+2026-02-05 14:51:27	position	User at (357.5, 184.0)
+2026-02-05 14:51:29	move_left	Face moved left by 80.0 px
+2026-02-05 14:51:29	smile	Smile detected
+2026-02-05 14:51:29	laugh	Laugh detected
+2026-02-05 14:51:29	position	User at (287.5, 185.5)
+2026-02-05 14:51:29	move_right	Face moved right by 53.0 px
+2026-02-05 14:51:29	position	User at (339.5, 186.5)
+2026-02-05 14:51:29	move_right	Face moved right by 53.0 px
+2026-02-05 14:51:29	position	User at (389.0, 183.5)
+2026-02-05 14:51:30	move_right	Face moved right by 47.0 px
+2026-02-05 14:51:30	laugh	Laugh detected
+2026-02-05 14:51:30	position	User at (439.0, 190.5)
+2026-02-05 14:51:30	position	User at (441.0, 179.5)
+2026-02-05 14:51:30	move_left	Face moved left by 49.0 px
+2026-02-05 14:51:30	position	User at (396.5, 169.5)
+2026-02-05 14:51:30	position	User at (409.0, 159.5)
+2026-02-05 14:51:31	move_right	Face moved right by 23.0 px
+2026-02-05 14:51:31	position	User at (427.0, 156.0)
+2026-02-05 14:51:32	move_right	Face moved right by 44.0 px
+2026-02-05 14:51:32	position	User at (473.0, 133.5)
+2026-02-05 14:51:32	position	User at (474.0, 133.0)
+2026-02-05 14:51:32	position	User at (474.5, 133.0)

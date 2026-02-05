@@ -20,7 +20,7 @@ from typing import Dict, List, Tuple
 import cv2
 import numpy as np
 
-from embed import ArcFaceEmbedderONNX
+from src.embed import ArcFaceEmbedderONNX
 
 
 @dataclass

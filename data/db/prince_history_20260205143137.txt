@@ -1,0 +1,22 @@
+Face Locking History for Prince
+2026-02-05 14:31:41	lock	Locked onto Prince
+2026-02-05 14:31:42	move_left	Face moved left by 35.0 px
+2026-02-05 14:31:42	position	User at (285.5, 305.5)
+2026-02-05 14:31:43	position	User at (293.5, 308.5)
+2026-02-05 14:31:43	position	User at (297.0, 311.0)
+2026-02-05 14:31:43	position	User at (304.0, 312.0)
+2026-02-05 14:31:44	position	User at (305.5, 310.0)
+2026-02-05 14:31:46	position	User at (309.0, 308.5)
+2026-02-05 14:31:47	position	User at (308.5, 283.0)
+2026-02-05 14:31:48	position	User at (320.5, 289.0)
+2026-02-05 14:31:48	position	User at (313.5, 282.0)
+2026-02-05 14:31:49	position	User at (317.0, 302.0)
+2026-02-05 14:31:49	move_right	Face moved right by 47.0 px
+2026-02-05 14:31:49	position	User at (361.5, 328.0)
+2026-02-05 14:31:50	move_left	Face moved left by 22.0 px
+2026-02-05 14:31:50	position	User at (343.0, 331.0)
+2026-02-05 14:31:50	position	User at (330.5, 337.5)
+2026-02-05 14:31:51	position	User at (324.5, 342.5)
+2026-02-05 14:31:52	position	User at (320.5, 348.0)
+2026-02-05 14:31:53	position	User at (320.5, 349.0)
+2026-02-05 14:32:01	position	User at (320.0, 345.0)

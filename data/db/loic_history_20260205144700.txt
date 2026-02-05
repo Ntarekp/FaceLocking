@@ -1,0 +1,30 @@
+Face Locking History for Loic
+2026-02-05 14:47:09	lock	Locked onto Loic
+2026-02-05 14:47:09	smile	Smile detected
+2026-02-05 14:47:09	position	User at (401.5, 299.0)
+2026-02-05 14:47:09	move_right	Face moved right by 21.0 px
+2026-02-05 14:47:09	position	User at (423.5, 273.0)
+2026-02-05 14:47:09	move_left	Face moved left by 76.0 px
+2026-02-05 14:47:09	position	User at (346.5, 231.5)
+2026-02-05 14:47:10	position	User at (356.0, 211.5)
+2026-02-05 14:47:11	move_right	Face moved right by 43.0 px
+2026-02-05 14:47:11	laugh	Laugh detected
+2026-02-05 14:47:11	position	User at (396.5, 169.5)
+2026-02-05 14:47:11	move_left	Face moved left by 17.0 px
+2026-02-05 14:47:11	position	User at (371.0, 219.5)
+2026-02-05 14:47:12	move_left	Face moved left by 20.0 px
+2026-02-05 14:47:12	position	User at (342.0, 233.0)
+2026-02-05 14:47:12	position	User at (335.5, 236.0)
+2026-02-05 14:47:12	position	User at (332.5, 230.0)
+2026-02-05 14:47:12	position	User at (334.5, 231.5)
+2026-02-05 14:47:13	position	User at (338.0, 232.5)
+2026-02-05 14:47:13	position	User at (331.5, 231.5)
+2026-02-05 14:47:13	position	User at (332.5, 226.0)
+2026-02-05 14:47:14	position	User at (333.5, 212.0)
+2026-02-05 14:47:16	unlock	Released lock on Loic
+2026-02-05 14:47:19	lock	Locked onto Loic
+2026-02-05 14:47:19	move_right	Face moved right by 22.0 px
+2026-02-05 14:47:19	position	User at (518.5, 348.5)
+2026-02-05 14:47:24	unlock	Released lock on Loic
+2026-02-05 14:47:24	lock	Locked onto Loic
+2026-02-05 14:47:26	unlock	Released lock on Loic

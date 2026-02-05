@@ -1,0 +1,92 @@
+Face Locking History for Prince
+2026-02-05 10:15:59	lock	Locked onto Prince
+2026-02-05 10:16:00	position	User at (397.0, 297.0)
+2026-02-05 10:16:01	position	User at (408.0, 299.5)
+2026-02-05 10:16:02	position	User at (403.5, 302.5)
+2026-02-05 10:16:03	position	User at (411.0, 307.0)
+2026-02-05 10:16:04	position	User at (403.5, 260.5)
+2026-02-05 10:16:05	position	User at (413.5, 268.5)
+2026-02-05 10:16:07	smile	Smile detected
+2026-02-05 10:16:07	laugh	Laugh detected
+2026-02-05 10:16:07	position	User at (411.0, 262.5)
+2026-02-05 10:16:09	position	User at (415.5, 269.0)
+2026-02-05 10:16:09	move_left	Face moved left by 43.0 px
+2026-02-05 10:16:09	position	User at (374.0, 270.0)
+2026-02-05 10:16:10	move_left	Face moved left by 47.0 px
+2026-02-05 10:16:10	position	User at (332.0, 275.5)
+2026-02-05 10:16:10	position	User at (330.5, 277.5)
+2026-02-05 10:16:10	position	User at (335.0, 276.5)
+2026-02-05 10:16:11	position	User at (340.5, 276.0)
+2026-02-05 10:16:11	position	User at (341.5, 276.0)
+2026-02-05 10:16:11	position	User at (341.0, 275.0)
+2026-02-05 10:16:12	position	User at (342.0, 275.0)
+2026-02-05 10:16:12	position	User at (342.0, 274.0)
+2026-02-05 10:16:12	position	User at (344.0, 273.0)
+2026-02-05 10:16:12	position	User at (344.5, 265.5)
+2026-02-05 10:16:13	position	User at (346.5, 266.0)
+2026-02-05 10:16:13	position	User at (349.5, 270.5)
+2026-02-05 10:16:13	laugh	Laugh detected
+2026-02-05 10:16:13	position	User at (355.0, 269.0)
+2026-02-05 10:16:13	position	User at (356.5, 263.5)
+2026-02-05 10:16:14	position	User at (357.5, 265.0)
+2026-02-05 10:16:15	position	User at (358.0, 267.5)
+2026-02-05 10:16:15	position	User at (360.5, 267.5)
+2026-02-05 10:16:15	position	User at (360.0, 267.5)
+2026-02-05 10:16:15	position	User at (359.5, 268.5)
+2026-02-05 10:16:16	position	User at (359.5, 269.0)
+2026-02-05 10:16:17	position	User at (359.0, 269.0)
+2026-02-05 10:16:18	position	User at (356.0, 261.0)
+2026-02-05 10:16:19	laugh	Laugh detected
+2026-02-05 10:16:19	position	User at (360.0, 275.5)
+2026-02-05 10:16:20	move_right	Face moved right by 30.0 px
+2026-02-05 10:16:20	position	User at (374.0, 268.5)
+2026-02-05 10:16:20	position	User at (379.0, 271.5)
+2026-02-05 10:16:21	position	User at (378.5, 272.5)
+2026-02-05 10:16:21	position	User at (378.5, 272.0)
+2026-02-05 10:16:21	position	User at (379.0, 272.0)
+2026-02-05 10:16:21	position	User at (382.0, 272.5)
+2026-02-05 10:16:22	position	User at (382.5, 272.0)
+2026-02-05 10:16:22	position	User at (383.5, 272.0)
+2026-02-05 10:16:22	position	User at (383.5, 272.5)
+2026-02-05 10:16:23	position	User at (383.5, 272.0)
+2026-02-05 10:16:23	position	User at (382.5, 272.0)
+2026-02-05 10:16:23	position	User at (380.5, 271.0)
+2026-02-05 10:16:23	position	User at (377.5, 270.5)
+2026-02-05 10:16:24	position	User at (375.5, 269.0)
+2026-02-05 10:16:24	laugh	Laugh detected
+2026-02-05 10:16:24	position	User at (375.5, 267.5)
+2026-02-05 10:16:24	position	User at (371.0, 265.0)
+2026-02-05 10:16:25	position	User at (358.0, 268.5)
+2026-02-05 10:16:26	move_right	Face moved right by 19.0 px
+2026-02-05 10:16:26	smile	Smile detected
+2026-02-05 10:16:26	position	User at (379.0, 261.5)
+2026-02-05 10:16:26	laugh	Laugh detected
+2026-02-05 10:16:26	position	User at (381.5, 264.0)
+2026-02-05 10:16:26	position	User at (381.0, 267.0)
+2026-02-05 10:16:26	position	User at (380.5, 269.0)
+2026-02-05 10:16:27	position	User at (381.5, 270.0)
+2026-02-05 10:16:28	position	User at (388.0, 263.0)
+2026-02-05 10:16:28	position	User at (391.5, 263.5)
+2026-02-05 10:16:29	laugh	Laugh detected
+2026-02-05 10:16:29	position	User at (393.0, 265.5)
+2026-02-05 10:16:30	position	User at (392.0, 267.0)
+2026-02-05 10:16:30	position	User at (390.5, 266.0)
+2026-02-05 10:16:30	smile	Smile detected
+2026-02-05 10:16:30	position	User at (389.5, 270.0)
+2026-02-05 10:16:31	move_left	Face moved left by 22.0 px
+2026-02-05 10:16:31	position	User at (372.0, 281.0)
+2026-02-05 10:16:32	move_right	Face moved right by 16.0 px
+2026-02-05 10:16:32	smile	Smile detected
+2026-02-05 10:16:32	position	User at (390.5, 278.5)
+2026-02-05 10:16:33	position	User at (395.0, 292.5)
+2026-02-05 10:16:33	move_right	Face moved right by 42.0 px
+2026-02-05 10:16:33	position	User at (424.0, 280.0)
+2026-02-05 10:16:34	position	User at (393.0, 277.5)
+2026-02-05 10:16:34	position	User at (385.0, 286.0)
+2026-02-05 10:16:35	move_right	Face moved right by 17.0 px
+2026-02-05 10:16:35	position	User at (396.0, 292.5)
+2026-02-05 10:16:36	move_right	Face moved right by 27.0 px
+2026-02-05 10:16:36	position	User at (427.0, 318.0)
+2026-02-05 10:16:37	position	User at (423.0, 319.0)
+2026-02-05 10:16:37	position	User at (422.5, 319.0)
+2026-02-05 10:16:44	unlock	Released lock on Prince

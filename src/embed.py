@@ -22,7 +22,7 @@ import cv2
 import numpy as np 
 import onnxruntime as ort 
  
-from haar_5pt import Haar5ptDetector, align_face_5pt
+from src.haar_5pt import Haar5ptDetector, align_face_5pt
  
  
 # ------------------------- 
@@ -161,7 +161,7 @@ def cosine_similarity(a: np.ndarray, b: np.ndarray) -> float:
 # ------------------------- 
  
 def main(): 
-   cap = cv2.VideoCapture(0) 
+   cap = cv2.VideoCapture(2)
  
    det = Haar5ptDetector( 
        min_size=(70, 70), 
@@ -272,4 +272,4 @@ def main():
  
  
 if __name__ == "__main__": 
-   main() 
+   main()

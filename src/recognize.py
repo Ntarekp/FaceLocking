@@ -92,7 +92,7 @@ def select_identity(names):
             print("Invalid input. Please enter a number.")
 
 LOCK_HISTORY_DIR = "data/db"
-LOCK_CONFIDENCE_THRESHOLD = 0.8
+LOCK_CONFIDENCE_THRESHOLD = 0.70 # Increased from 0.65 to reduce false positives
 
 # -------------------------
 # Math helpers
@@ -424,7 +424,7 @@ self.IDX_MOUTH_RIGHT]
 # Matcher 
 # ------------------------- 
 class FaceDBMatcher: 
-   def __init__(self, db: Dict[str, np.ndarray], dist_thresh: float = 0.34): 
+   def __init__(self, db: Dict[str, np.ndarray], dist_thresh: float = 0.40): 
        self.db = db 
        self.dist_thresh = float(dist_thresh) 
  
@@ -483,11 +483,15 @@ def main():
    ) 
  
    db = load_db_npz(db_path) 
-   matcher = FaceDBMatcher(db=db, dist_thresh=0.34)  # from your evaluate_new output 
+   matcher = FaceDBMatcher(db=db, dist_thresh=0.40)  # from your evaluate_new output
  
-   cap = cv2.VideoCapture(1)
+   # Ask user for camera index
+   cam_idx_str = input("Enter camera index (default 0): ").strip()
+   cam_idx = int(cam_idx_str) if cam_idx_str.isdigit() else 0
+   
+   cap = cv2.VideoCapture(cam_idx)
    if not cap.isOpened(): 
-       raise RuntimeError("Camera not available") 
+       raise RuntimeError(f"Camera {cam_idx} not available")
 
    print("Recognize (multi-face). q=quit, r=reload DB, +/- threshold, d=debug overlay") 
    

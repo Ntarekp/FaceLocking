@@ -38,9 +38,9 @@ except Exception as e:
     _MP_IMPORT_ERROR = e
 
 # Reuse your known-good alignment method (you said alignment is OK now)
-from haar_5pt import align_face_5pt
+from src.haar_5pt import align_face_5pt
 # Face Locking feature
-from face_lock import FaceLock
+from src.face_lock import FaceLock
  
  
 # ------------------------- 
@@ -69,15 +69,7 @@ class MatchResult:
 # -------------------------
 # Face Locking Setup
 # -------------------------
-def select_identity(face_db_path):
-    # Load enrolled identities
-    if not Path(face_db_path).exists():
-        print(f"Error: Database not found at {face_db_path}")
-        print("Please run 'python -m src.enroll' first.")
-        exit(1)
-        
-    db = np.load(face_db_path, allow_pickle=True)
-    names = list(db.keys())
+def select_identity(names):
     if not names:
         print("Error: No identities found in database.")
         print("Please run 'python -m src.enroll' first.")
@@ -493,7 +485,7 @@ def main():
    db = load_db_npz(db_path) 
    matcher = FaceDBMatcher(db=db, dist_thresh=0.34)  # from your evaluate_new output 
  
-   cap = cv2.VideoCapture(0) 
+   cap = cv2.VideoCapture(1)
    if not cap.isOpened(): 
        raise RuntimeError("Camera not available") 
 

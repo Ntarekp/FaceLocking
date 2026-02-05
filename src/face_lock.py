@@ -42,6 +42,15 @@ class FaceLock:
             self.locked_landmarks = landmarks
             self.last_seen = time.time()
             self.missing_frames = 0
+            
+            # Record position periodically (e.g., every 30 frames or 1 second)
+            # For now, let's just record it if it moved significantly or just log it
+            # But user asked for "where the user is detected to be found"
+            # We can log the center of the bounding box
+            cx = (bbox[0] + bbox[2]) / 2
+            cy = (bbox[1] + bbox[3]) / 2
+            self.record_action('position', f"User at ({cx:.1f}, {cy:.1f})")
+
         else:
             self.missing_frames += 1
             if self.missing_frames > self.max_missing_frames:
